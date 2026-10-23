@@ -69,9 +69,9 @@ except ImportError as exc:
 
 
 PATHS = (
-    "/Users/4c/Desktop/GHQ/data/loto7_4706_k84.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4706_k84_loto_2975.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4706_k84_loto_plus_1731.csv",
+    "/data/loto7_4706_k84.csv",
+    "/data/loto7_4706_k84_loto_2975.csv",
+    "/data/loto7_4706_k84_loto_plus_1731.csv",
 )
 
 N, K = 39, 7
@@ -996,7 +996,7 @@ MAP pretraga; limit=120s.
   MAP: čvorovi=425,472; gornja/donja granica=8.795095; 15.0s
 Zbir marginala=7.0000000000; MAP čvorovi=508,814.
 
-NEXT [loto7_4706_k84.csv]: 04 09 15 21 27 32 37
+NEXT [loto7_4706_k84.csv]: 04 x 15 y 27 z 37
 Interna modelska masa=1.47992254519e-07. Nije potvrđena verovatnoća budućeg izvlačenja.
 STATUS: maksimum je pronađen; to samo po sebi ne potvrđuje prediktivnu vrednost.
 
@@ -1056,7 +1056,7 @@ MAP pretraga; limit=120s.
   MAP: čvorovi=446,208; gornja/donja granica=6.970178; 10.0s
 Zbir marginala=7.0000000000; MAP čvorovi=482,177.
 
-NEXT [loto7_4706_k84_loto_2975.csv]: 04 09 15 20 25 31 36
+NEXT [loto7_4706_k84_loto_2975.csv]: 04 x 15 y 25 z 36
 Interna modelska masa=1.46047654568e-07. Nije potvrđena verovatnoća budućeg izvlačenja.
 STATUS: maksimum je pronađen; to samo po sebi ne potvrđuje prediktivnu vrednost.
 
@@ -1115,7 +1115,7 @@ MAP pretraga; limit=120s.
   MAP: čvorovi=399,104; gornja/donja granica=8.50834; 5.0s
 Zbir marginala=7.0000000000; MAP čvorovi=473,562.
 
-NEXT [loto7_4706_k84_loto_plus_1731.csv]: 04 09 15 22 27 32 37
+NEXT [loto7_4706_k84_loto_plus_1731.csv]: 04 x 15 y 27 z 37
 Interna modelska masa=1.54498094185e-07. Nije potvrđena verovatnoća budućeg izvlačenja.
 STATUS: maksimum je pronađen; to samo po sebi ne potvrđuje prediktivnu vrednost.
 
